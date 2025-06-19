@@ -1,5 +1,5 @@
-# Capstone Project
-# Smart Drone Dengan GPS Waypoint, Face Detection, dan Remote XY Controlling untuk Crowd Monitoring dan Tracking
+# Capstone Project (B)
+# Smart Drone with Face Detection and Mobile App Control (RemoteXY) for Visual Monitoring and Public Area Documentation
 
 | Nama                     | NRP        |
 | ------------------------ | ---------- |
